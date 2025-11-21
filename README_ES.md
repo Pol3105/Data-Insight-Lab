@@ -4,6 +4,8 @@
 
 ---
 
+![Demo de la aplicación ResuMe](Readme.gif)
+
 ## 🚀 Sobre este Proyecto (Mi viaje en Datos)
 
 ¡Bienvenido a mi portafolio! **Este es mi primer proyecto en el campo del Análisis de Datos.** Representa el punto de partida de mi camino hacia la ciencia de datos. Mi objetivo era ir más allá de las hojas de cálculo estáticas y construir una **herramienta interactiva en vivo** que consuma datos financieros en tiempo real. Aunque es solo el comienzo, demuestra mi capacidad para integrar APIs, manejar DataFrames y crear interfaces de usuario amigables.

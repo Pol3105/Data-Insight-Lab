@@ -4,6 +4,8 @@
 
 ---
 
+![Demo de la aplicación ResuMe](Readme.gif)
+
 ## 🚀 About This Project (My Data Journey)
 
 Welcome to my portfolio! **This is my very first project in the field of Data Analytics.** It represents the starting point of my journey into data science. My goal was to move beyond static spreadsheets and build a **live, interactive tool** that consumes real-time financial data. While this is just the beginning, it demonstrates my ability to integrate APIs, handle data frames, and create user-friendly interfaces.
